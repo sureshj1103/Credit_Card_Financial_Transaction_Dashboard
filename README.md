@@ -67,4 +67,6 @@ WoW change:
 • Overall Activation rate is 57.5%
 • Overall Delinquent rate is 6.06%
 
-<img width="6000" height="4000" alt="image" src="https://github.com/user-attachments/assets/5140a5c7-b7ec-47c8-ac5a-5e1586764975" />
+<img width="1331" height="746" alt="image" src="https://github.com/user-attachments/assets/dfaf6b6a-74af-4ac4-a7dd-41802c3f7215" />
+<img width="1336" height="751" alt="image" src="https://github.com/user-attachments/assets/6d9fe472-d5fc-4ef6-afcf-d333c0cde081" />
+
